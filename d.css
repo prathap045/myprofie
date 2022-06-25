@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black ;
+    position: relative;
+    /* display: flex; */
+}
+/* .carousel{
+
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, 10%)
+
+} */
+h1{
+    text-align: center;
+}
+.navbar{
+    /* width: 1300px !important; */
+    height: 80px;
+    background-color: black !important;
+}
+.btn-warning{
+    margin-left: 30%!important;
+}
